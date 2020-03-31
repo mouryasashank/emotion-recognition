@@ -31,14 +31,20 @@ JK            |      85.71
 KL            |      85.71
 JE            |      64.29
 
-![alt text](images/cm1.png)
-![alt text](images/cm2.png)
+![alt text](images/cm1.jpg)
+![alt text](images/cm2.jpg)
 
 Landmarks Extraction for a Image using Image processing and Deep Learning.
 -------------------------------------------------------------------------------------------------------------------------------
 
+
+A CNN is build on extraction of landmarks but resulted in poor outputs. 
+
 ![alt text](images/bluemarks.png)
 ![alt text](images/landmarks.png)
+
+
+
 
 
 
