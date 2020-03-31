@@ -24,12 +24,12 @@ Fear          |      15
 We used 3D convents to build the model.Since we have a video as input,the frames are concatenated and sent to the model.
 We have provided the results with confusion matrics below.
 
-Actor         | Accuracy 
-------------- | -------------
-DC            |      92.9
-JK            |      85.71
-KL            |      85.71
-JE            |      64.29
+Actor         | Accuracy       | Notebook
+------------- | -------------  | -------------
+DC            |      92.9      | [DC Notebook](notebooks/SAVEE_DATABASE_GIT_DC.ipynb)
+JK            |      85.71     | [JK Notebook](notebooks/SAVEE_DATABASE_GIT_JK.ipynb)
+KL            |      85.71     | [KL Notebook](notebooks/SAVEE_DATABASE_GIT_KL.ipynb)
+JE            |      64.29     | [JE Notebook](notebooks/SAVEE_DATABASE_GIT_JE.ipynb)
 
 --------------------------------------------------------**Results**------------------------------------------------------------
 
