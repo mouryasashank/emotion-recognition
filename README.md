@@ -3,11 +3,17 @@
 ## Speaker Independemnt Emotion Recognition
 
 We have use SAVEE database, which consists of 120 videos of four professional actors with 7 different emotions. 
-* Neutral(20)
-* Sad
-* Happy
-* Angry
-* Surprised
-* Disgust
-* Fear
+
+Emotion       | No of Samples
+------------- | -------------
+Neutral       |      30
+Sad           |      15
+Happy         |      15
+Angry         |      15
+Surprised     |      15
+Disgust       |      15
+Fear          |      15
+
+
+
 
