@@ -19,7 +19,7 @@ Disgust       |      15
 Fear          |      15
 
 
-## Speaker Independemnt Emotion Recognition
+## Speaker Independent Emotion Recognition
 ------------------------------------------------------------------------------------------------------------------------
 We used 3D convents to build the model.Since we have a video as input,the frames are concatenated and sent to the model.
 We have provided the results with confusion matrics below.
