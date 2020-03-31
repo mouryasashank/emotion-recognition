@@ -1,6 +1,8 @@
 # Emotion-recognition
 
-## Speaker Independemnt Emotion Recognition
+
+## About Dataset
+
 ![alt text](images/DataRec.png)
 
 ### We have use SAVEE database, which consists of 120 videos of four professional actors with 7 different emotions.
@@ -15,6 +17,9 @@ Angry         |      15
 Surprised     |      15
 Disgust       |      15
 Fear          |      15
+
+
+## Speaker Independemnt Emotion Recognition
 
 
 
