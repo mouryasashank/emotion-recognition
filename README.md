@@ -26,10 +26,10 @@ We have provided the results with confusion matrics below.
 
 Actor         | Accuracy       | Notebook
 ------------- | -------------  | -------------
-DC            |      92.9      | [DC Notebook](notebooks/3D convnets Frames/SAVEE_DATABASE_GIT_DC.ipynb)
-JK            |      85.71     | [JK Notebook](notebooks/3D convnets Frames/SAVEE_DATABASE_GIT_JK.ipynb)
-KL            |      85.71     | [KL Notebook](notebooks/3D convnets Frames/SAVEE_DATABASE_GIT_KL.ipynb)
-JE            |      64.29     | [JE Notebook](notebooks/3D convnets Frames/SAVEE_DATABASE_GIT_JE.ipynb)
+DC            |      92.9      | [DC Notebook](notebooks/3D_convnets/SAVEE_DATABASE_GIT_DC.ipynb)
+JK            |      85.71     | [JK Notebook](notebooks/3D_convnets/SAVEE_DATABASE_GIT_JK.ipynb)
+KL            |      85.71     | [KL Notebook](notebooks/3D_convnets/SAVEE_DATABASE_GIT_KL.ipynb)
+JE            |      64.29     | [JE Notebook](notebooks/3D_convnets/SAVEE_DATABASE_GIT_JE.ipynb)
 
 --------------------------------------------------------**Results**------------------------------------------------------------
 
