@@ -1,12 +1,10 @@
 # Emotion-recognition
 
 ## Speaker Independemnt Emotion Recognition
-
-We have use SAVEE database, which consists of 120 videos of four professional actors with 7 different emotions.
-
-
-
 ![alt text](images/DataRec.png)
+
+### We have use SAVEE database, which consists of 120 videos of four professional actors with 7 different emotions.
+
 
 Emotion       | No of Samples
 ------------- | -------------
