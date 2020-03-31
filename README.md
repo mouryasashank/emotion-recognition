@@ -3,6 +3,7 @@
 ## Speaker Independemnt Emotion Recognition
 
 We have use SAVEE database, which consists of 120 videos of four professional actors with 7 different emotions. 
+![alt text](images/DataRec.png)
 
 Emotion       | No of Samples
 ------------- | -------------
@@ -14,9 +15,11 @@ Surprised     |      15
 Disgust       |      15
 Fear          |      15
 
-Landmarks Extraction for Image using Image processing and Deep Learning.
+
+
+Landmarks Extraction for a Image using Image processing and Deep Learning.
 -------------------------------------------------------------------------------------------------------------------------------
-![alt text](images/DataRec.png)
+
 ![alt text](images/bluemarks.png)
 ![alt text](images/landmarks.png)
 
